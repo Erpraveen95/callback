@@ -1,3 +1,4 @@
+
 function attachEventListner(){
     let count=0
     document.getElementById("10").addEventListener("click",function xyz(){
@@ -10,5 +11,5 @@ addEventListener(onload,function(){
 })
 
 window.addEventListener('load', function () {
-    console.log("DOM has loaded")
+    console.log("DOM has loaded"    )
   })
